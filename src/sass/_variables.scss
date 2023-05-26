@@ -3,3 +3,13 @@ $titleColor: crimson;
 $TextColorOne: darkorchid;
 $TextColortwo: green;
 
+
+@mixin box(){
+    background-color: orange;
+    border: 10px;
+    height: 150px;
+    max-width: auto;
+    font-weight: 20rem;
+    font-weight: bolder;
+    text-align: center;
+}

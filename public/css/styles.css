@@ -8,6 +8,16 @@ main #section-two {
   color: green;
 }
 
+.box1 {
+  background-color: orange;
+  border: 10px;
+  height: 150px;
+  max-width: auto;
+  font-weight: 20rem;
+  font-weight: bolder;
+  text-align: center;
+}
+
 body {
   background-color: burlywood;
 }
